@@ -1,2 +1,2 @@
 # opendibs
-open disclosure idea board system
+open disclosure idea boards
